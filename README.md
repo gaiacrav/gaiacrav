@@ -1,11 +1,11 @@
 <h1 align="center"> Hi I'm Gaia 👩🏼‍💻 👋 </h1>
 <h3 align="center">📌 Looking for a new challenge as a Product Manager </h3>
 
-- 🔭 I have just finished working on 🎬 [HiThere!](http://www.hithereapp.fun/)
-- 💻 I’m currently learning **JavaScript** and **React** 
-- 👯 I’m looking to collaborate on fun front-end/UI projects using **HTML**, **CSS** and **Bootstrap 4.0** 
-- 💬 Ask me about **HTML**, **CSS**, **Bootstrap**, **Ruby** and **Ruby on Rails**
-- 📫 Reach me at: gcravesana@gmail.com
+- 🔭  I have just finished working on 🎬 [HiThere!](http://www.hithereapp.fun/)
+- 💻  I’m currently learning **JavaScript** and **React** 
+- 👯  I’m looking to collaborate on fun front-end/UI projects using **HTML**, **CSS** and **Bootstrap 4.0** 
+- 💬  Ask me about **HTML**, **CSS**, **Bootstrap**, **Ruby** and **Ruby on Rails**
+- 📫  Reach me at: gcravesana@gmail.com
 
 
 <h4> Let's connect on: 
