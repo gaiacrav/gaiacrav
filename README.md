@@ -3,7 +3,7 @@
 
 - 🔭 I have just finished working on 🎬 [HiThere!](http://www.hithereapp.fun/)
 - 💻 I’m currently learning **JavaScript** and **React** 
-- 👯 I’m looking to collaborate on fun front-end/UI projects using **HTML**, **CSS** and **Bootsrap 4.0** 
+- 👯 I’m looking to collaborate on fun front-end/UI projects using **HTML**, **CSS** and **Bootstrap 4.0** 
 - 💬 Ask me about **HTML**, **CSS**, **Bootsrap**, **Ruby** and **Ruby on Rails**
 - 📫 Reach me at: gcravesana@gmail.com
 
