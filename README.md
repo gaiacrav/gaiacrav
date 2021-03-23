@@ -1,5 +1,5 @@
 <h1 align="center"> Hi I'm Gaia 👩🏼‍💻 👋 </h1>
-<h3 align="center">📌 Looking for a new opportunity working as a Product Manager </h3>
+<h3 align="center">📌 Looking for a new challenge as a Product Manager </h3>
 
 - 🔭 I’m currently working on 🎬 [HiThere!](http://www.hithereapp.fun/)
 - 💻 I’m currently learning **Javascript** and **React** 
