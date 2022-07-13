@@ -1,9 +1,7 @@
 <h1 align="center"> Hi I'm Gaia 👩🏼‍💻 👋 </h1>
-<h3 align="center">📌 Looking for a new challenge </h3>
+<h3 align="center">📌 Scrum Master </h3>
 
-- 🔭  I have just finished working on 🎬 [HiThere!](http://www.hithereapp.fun/)
-- 💻  I’m currently learning **JavaScript** and **React** 
-- 👯  I’m looking to collaborate on fun front-end/UI projects using **HTML**, **CSS** and **Bootstrap 4.0** 
+- 🔭  Im proud of having worked on 🎬 [HiThere!](http://www.hithereapp.fun/)
 - 💬  Ask me about **HTML**, **CSS**, **Bootstrap**, **Ruby** and **Ruby on Rails**
 - 📫  Reach me at: gcravesana@gmail.com
 
