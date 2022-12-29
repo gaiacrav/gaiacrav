@@ -2,7 +2,7 @@
 <h3 align="center">📌 Scrum Master </h3>
 
 - 🔭  Im proud of having worked on 🎬 [HiThere!](http://www.hithereapp.fun/)
-- 💬  Ask me about **HTML**, **CSS**, **Bootstrap**, **Ruby** and **Ruby on Rails**
+- 👩🏼‍💻  **HTML**, **CSS**, **Bootstrap**, **Ruby** and **Ruby on Rails**
 - 📫  Reach me at: gcravesana@gmail.com
 
 
