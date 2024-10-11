@@ -1,7 +1,6 @@
 <h1 align="center"> Hi I'm Gaia 👩🏼‍💻 👋 </h1>
 
 - 👩🏼‍💻🧑‍💻👩🏼‍💻🧑‍💻 Team management and processes organisation
-- 👩🏼‍💻  **HTML**, **CSS**, **Bootstrap**, **Ruby** and **Ruby on Rails**
 - 🔭 For fun, I'm proud of having worked on 🎬 [HiThere!](http://www.hithereapp.fun/)
 - 📫  Reach me at: gcravesana@gmail.com
 
